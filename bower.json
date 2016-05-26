@@ -10,5 +10,24 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
-  }
+  },
+  "homepage": "https://github.com/NicolasRannou/three-js",
+  "authors": [
+    "nicolasrannou <npm.rannou@gmail.com>"
+  ],
+  "keywords": [
+    "threejs",
+    "webgl",
+    "three",
+    "polymer",
+    "import"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
